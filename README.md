@@ -1,4 +1,4 @@
-# finalproject
+# Connecticut Coalition Against Domestic Violence Member Map 2017
 Map Displaying the Member Groups for the Connecticut Coalition Against Domestic Violence
 <iframe src="https://aniaaliev.github.io/leaflet-map-polygon-hover/" width="90%" height="570"></iframe>
 Final Thoughts and Reflections: 
